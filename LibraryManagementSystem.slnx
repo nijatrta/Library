@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Library/" />
+  <Folder Name="/Library/BLL/">
+    <Project Path="BusinessLogicLayer/BusinessLogicLayer.csproj" />
+  </Folder>
+  <Folder Name="/Library/DAL/">
+    <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
+  </Folder>
+  <Folder Name="/Library/Data/" />
+  <Project Path="LibraryControlSystem/LibraryManagementSystem.csproj" />
+</Solution>
